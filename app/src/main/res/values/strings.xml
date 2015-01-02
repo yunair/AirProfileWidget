@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirProfileWidget</string>
+    <string name="normal">Normal</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="silent">Silent</string>
+
+</resources>

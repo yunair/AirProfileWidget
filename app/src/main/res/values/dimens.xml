@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_label_padding_top">1dp</dimen>
+    <dimen name="widget_button_layout_width">58dp</dimen>
+    <dimen name="widget_button_layout_height">52dp</dimen>
+    <dimen name="widget_icon_layout_marginTop">4dp</dimen>
+    <dimen name="widget_button_layout_marginTop">5dp</dimen>
+    <dimen name="widget_label_layout_height">21dp</dimen>
+    <dimen name="widget_label_layout_marginTop">3dp</dimen>
+</resources>

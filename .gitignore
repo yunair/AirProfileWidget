@@ -1,0 +1,23 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+
+#Log Files
+*.log
+
+#Built application files
+*.apk
+*.ap_
+
+#Files for the Dalvik VM
+*.dex
+
+#Java class files
+*.clss
+
+#Generated files
+bin/
+gen/
